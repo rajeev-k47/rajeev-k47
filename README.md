@@ -2,7 +2,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 # Contribution Graph:
-<a href="https://github.com/rajeev-k47"><img alt="RAZZEV" src="https://ghactivity.mrayush.me/graph?username=rajeev-k47&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+![No cap](https://github-readme-activity-graph.vercel.app/graph?username=rajeev-k47&theme=react-dark&custom_title=Here%20we%20go&hide_border=true)
   
   [![rajeev-k47](https://github-stats-alpha.vercel.app/api?username=rajeev-k47 "RAZZEV")](https://github-stats-alpha.vercel.app/api?username=rajeev-k47 "RAZZEV")
 [![Github Trophies](https://github-profile-trophy.vercel.app/?username=rajeev-k47&theme=transparent&no-bg=true&margin-w=15&margin-h=10&row=1&column=6&count_private=true)]()
