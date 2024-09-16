@@ -8,6 +8,7 @@
 [![Github Trophies](https://github-profile-trophy.vercel.app/?username=rajeev-k47&theme=transparent&no-bg=true&margin-w=15&margin-h=10&row=1&column=6&count_private=true)]()
 <p><img width="494" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajeev-k47&show_icons=true&locale=en&layout=compact" alt="RAZZEV" /></p>
 
+# Welcome, you are special&nbsp;![ProfileCounter](https://profile-counter.glitch.me/rajeev-k47/count.svg)th visitor 🤗
 
 # Github Streak ☠︎︎
   [![GitHub Streak](https://streak-stats.demolab.com?user=rajeev-k47&theme=radical&border_radius=5&date_format=j%20M%5B%20Y%5D&fire=FF8100)]()
